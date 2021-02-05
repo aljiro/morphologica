@@ -1,0 +1,8 @@
+{
+    "epsilon" : 0.2,
+    "sigma" : 0.2,
+    "timeStep" : 0.01,
+    "maxTime" : 5000.0,
+    "alpha" : 0.001,
+    "beta" : 0.005
+}

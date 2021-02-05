@@ -2,6 +2,8 @@
 # Emerge from Local Dynamic Instabilities', Ermentrout, Simons and
 # Land, PLOS Comp Biol 2009
 add_subdirectory(Ermentrout2009)
+# Kohonen map example
+add_subdirectory(kohonen)
 
 # All #includes in test programs have to be #include <morph/header.h>
 include_directories(BEFORE ${PROJECT_SOURCE_DIR})

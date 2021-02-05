@@ -1,0 +1,22 @@
+{
+	"Dc" : 7.7999999999999999e-05,
+	"Dn" : 0.00059999999999999995,
+	"argv0" : true,
+	"argv1" : true,
+	"boundaryFalloffDist" : 0.029999999999999999,
+	"desc_simulation" : "This is an Ermentrout Keller-Segel based sub-barrel system",
+	"dt" : 9.9999997473787516e-05,
+	"final_step" : 300001,
+	"float_width" : 4,
+	"git_branch" : "main",
+	"git_head" : "3f43b28aab4f56a97574b3625007990c8c1c4f4c",
+	"hextohex_d" : 0.0099999997764825821,
+	"logevery" : 100000,
+	"logpath" : "./logs/erm",
+	"overwrite_logs" : true,
+	"plotevery" : 5000,
+	"sim_ran_at_time" : "Thu Feb  4 10:54:08 2021",
+	"steps" : 300000,
+	"svgpath" : "../morphologica/boundaries/whiskerbarrels.svg",
+	"win_width" : 800
+}
